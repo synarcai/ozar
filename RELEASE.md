@@ -1,10 +1,10 @@
 # Releases
 
-## 0.8.0 — internal candidate (not published)
+## 0.0.1 — internal candidate (not published)
 
-Public releases begin at 1.0.0-alpha, when stories are read by one carrier in nine languages and every act carries a ledger. Until then the candidates below pass the whole pipeline (build on five targets, the held-out key, the doctor, the smoke) and are kept for the record.
+Versions grow with capability, not with the corpus: 0.0.x while the core answers grounded questions on one crystal; 0.1.x when stories are read by one carrier in nine languages; 0.2.x when acts carry a ledger (files, shell, build, test); public releases begin when the agent loop is whole. Every candidate passes the whole pipeline (build on five targets, the held-out key, the doctor, the smoke) and is kept for the record.
 
-**Crystal.** `GENESIS-a156efe1.crystal` — forged from the corpus of the eighth point (signature `a156efe128f1eca2…`, 300 045 lines, 169 worlds of shows, nine languages). The corpus text is not published; the crystal is what the binary answers from.
+**Crystal.** `GENESIS-a156efe1.crystal` — forged from the corpus of the eighth point of the corpus (signature `a156efe128f1eca2…`, 300 045 lines, 169 worlds of shows, nine languages). The corpus text is not published; the crystal is what the binary answers from.
 
 **Measure.** The held-out key `68ac67689716d771…` (1 268 questions the corpus never showed: en 146, ru 142, seven more languages 140 each; depths 0 / 1 / 2+). Counts on this release: _to be filled from the forge_ (right / wrong / silent), against the previous point: 164 right / 15 wrong / 855 silent (443ad4b9 on the seventh key of 1 034).
 

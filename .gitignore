@@ -1,0 +1,4 @@
+# releases carry binaries and crystals only; nothing from the build tree
+target/
+*.log
+*.tape.live

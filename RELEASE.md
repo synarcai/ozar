@@ -1,6 +1,8 @@
 # Releases
 
-## 0.8.0 — (in preparation)
+## 0.8.0 — internal candidate (not published)
+
+Public releases begin at 1.0.0-alpha, when stories are read by one carrier in nine languages and every act carries a ledger. Until then the candidates below pass the whole pipeline (build on five targets, the held-out key, the doctor, the smoke) and are kept for the record.
 
 **Crystal.** `GENESIS-a156efe1.crystal` — forged from the corpus of the eighth point (signature `a156efe128f1eca2…`, 300 045 lines, 169 worlds of shows, nine languages). The corpus text is not published; the crystal is what the binary answers from.
 
